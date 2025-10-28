@@ -1,0 +1,5 @@
+A column- current registered company in KOSPI stock
+
+VP column-10.24 raw data which I want to register in my stock material
+
+GN-With using function, comparing A column with VP column, I made companys appear in GN column. So I can see the flow of the stock value when the stock value rise slowly.
